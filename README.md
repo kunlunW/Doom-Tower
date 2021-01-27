@@ -1,4 +1,4 @@
-Hello 
+Use your strategies, solve the puzzles, and ESCAPE the deadly DOOM TOWER!!! 
 
 <img src="https://user-images.githubusercontent.com/52982585/105932601-b65a9680-6012-11eb-84f2-5570854161e9.jpg" width="740" height="580"> 
 
@@ -29,5 +29,9 @@ Hello
 <img src="https://user-images.githubusercontent.com/52982585/105935726-1a338e00-6018-11eb-84da-edd702b34bfb.png" width="740" height="580"> 
 
 <img src="https://user-images.githubusercontent.com/52982585/105935816-3fc09780-6018-11eb-936d-5817dab0545a.png" width="740" height="580"> 
+
+<img src="https://user-images.githubusercontent.com/52982585/105935923-73032680-6018-11eb-90cf-83323f9689e1.png" width="740" height="580"> 
+
+<img src="https://user-images.githubusercontent.com/52982585/105936020-96c66c80-6018-11eb-8666-851fcd03d1a9.png" width="740" height="580"> 
 
 
