@@ -9,6 +9,7 @@ Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTh
 
 ![105932601-b65a9680-6012-11eb-84f2-5570854161e9](https://user-images.githubusercontent.com/52982585/105964393-baed7200-6047-11eb-9a15-90818c1d93a3.jpg)
 
+# **Paying tribute to the legend Tower of Sorcerer:**
 ![105933422-00904780-6014-11eb-9410-b3c722fa814e](https://user-images.githubusercontent.com/52982585/105964720-34856000-6048-11eb-85f0-ad4fd52963be.jpg)
 
 ![105933678-857b6100-6014-11eb-9189-86698b369a2b](https://user-images.githubusercontent.com/52982585/105964760-4404a900-6048-11eb-9029-213c5f03f154.jpg)
