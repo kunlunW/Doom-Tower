@@ -40,6 +40,6 @@ Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTh
 
 <img src="https://user-images.githubusercontent.com/52982585/105936020-96c66c80-6018-11eb-8666-851fcd03d1a9.png" width="740" height="580"> 
 
-# Collaborators: 
+# Authors: 
 Kunlun Wang [Check out my LinkedIn!](https://www.linkedin.com/in/kunlun-wang-9a87781aa/) <br /> 
 Charlie Bohong Chen 
