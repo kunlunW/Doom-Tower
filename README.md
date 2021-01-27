@@ -1,8 +1,8 @@
 # **Use your strategies, solve the puzzles, and ESCAPE the deadly DOOM TOWER!!!**
 
 
-Strategy and puzzle-solving RPG inspired by the Tower of Sorcerer (developed by
-Watanabe Nao in 1996). The game took place in a post-apocalyptic world where the actor woke up after a coma in an enigamatic tower. You need to use strategies, gather resources, and solve the puzzles to combat the devils within and help the actor investigate what happened.
+Strategy and puzzle-solving RPG inspired by the Tower of Sorcerer ([developed by
+Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTheSorcerer)). The game took place in a post-apocalyptic world where the actor woke up after a coma in an enigamatic tower. You need to use strategies, gather resources, and solve the puzzles to combat the devils within and help the actor investigate what happened.
 
 
 <img src="https://user-images.githubusercontent.com/52982585/105932601-b65a9680-6012-11eb-84f2-5570854161e9.jpg" width="740" height="580"> 
