@@ -25,6 +25,8 @@ Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTh
 
 ![105934862-93ca7c80-6016-11eb-98b0-778d679a220f](https://user-images.githubusercontent.com/52982585/105964875-67c7ef00-6048-11eb-9ebb-90d898867a1d.png)
 
+# **Doom Tower 2:**
+
 
 ![105934989-c83e3880-6016-11eb-9c81-d4d1a4751b4b](https://user-images.githubusercontent.com/52982585/105964908-71515700-6048-11eb-876f-13e974328f2c.png)
 
