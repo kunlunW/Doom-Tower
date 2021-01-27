@@ -30,6 +30,26 @@ Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTh
 
 ![105935122-076c8980-6017-11eb-95a5-3cc37b30fabe](https://user-images.githubusercontent.com/52982585/105964941-7c0bec00-6048-11eb-9368-07cfb64c60ef.png)
 
+![105935257-400c6300-6017-11eb-9fbc-d12216799e96](https://user-images.githubusercontent.com/52982585/105965184-baa1a680-6048-11eb-89af-0a57a09f870e.png)
+
+![105935386-819d0e00-6017-11eb-9d7b-6deae319c825](https://user-images.githubusercontent.com/52982585/105965212-c4c3a500-6048-11eb-9a87-ab34cd3f42db.png)
+
+![105935490-a7c2ae00-6017-11eb-87ec-0a923bce6b3d](https://user-images.githubusercontent.com/52982585/105965244-cc834980-6048-11eb-8289-35b00119c059.png)
+
+
+![105935591-d93b7980-6017-11eb-8345-0b30719a7150](https://user-images.githubusercontent.com/52982585/105965285-d5741b00-6048-11eb-8bb6-621eb957d7aa.png)
+
+
+![105935726-1a338e00-6018-11eb-84da-edd702b34bfb](https://user-images.githubusercontent.com/52982585/105965316-dd33bf80-6048-11eb-9b1e-9332260c05cd.png)
+
+
+![105935816-3fc09780-6018-11eb-936d-5817dab0545a](https://user-images.githubusercontent.com/52982585/105965343-e58bfa80-6048-11eb-89f9-12b332397759.png)
+
+
+![105935923-73032680-6018-11eb-90cf-83323f9689e1](https://user-images.githubusercontent.com/52982585/105965363-ede43580-6048-11eb-86f5-b7316df39a0d.png)
+
+
+![105936020-96c66c80-6018-11eb-8666-851fcd03d1a9](https://user-images.githubusercontent.com/52982585/105965386-f63c7080-6048-11eb-9ca8-432e91365683.png)
 
 
 
