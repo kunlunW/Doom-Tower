@@ -8,6 +8,9 @@ Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTh
 
 <img src="https://user-images.githubusercontent.com/52982585/105932601-b65a9680-6012-11eb-84f2-5570854161e9.jpg" width="740" height="580"> 
 
+![105932601-b65a9680-6012-11eb-84f2-5570854161e9](https://user-images.githubusercontent.com/52982585/105964393-baed7200-6047-11eb-9a15-90818c1d93a3.jpg)
+
+
 <img src="https://user-images.githubusercontent.com/52982585/105933422-00904780-6014-11eb-9410-b3c722fa814e.jpg" width="740" height="580"> 
 
 <img src="https://user-images.githubusercontent.com/52982585/105933678-857b6100-6014-11eb-9189-86698b369a2b.jpg" width="740" height="580"> 
