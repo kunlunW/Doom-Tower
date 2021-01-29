@@ -16,7 +16,7 @@ Doom Tower 1.0: 368MB <br/>
 Doom Tower 2.0: 680MB (Coming up soon) <br/> 
 
 # **Usage:**
-Download the repo, and click Game.exe 
+Download the repo, and open Game.exe 
 
 # **Language**
 Doom Tower 1.0: Chinese <br/> 
