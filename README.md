@@ -26,6 +26,9 @@ Doom Tower 2.0: English (Coming up soon) <br/>
 Kunlun Wang [Check out my LinkedIn!](https://www.linkedin.com/in/kunlun-wang-9a87781aa/) <br /> 
 Charlie Bohong Chen 
 
+# **Update**
+Doom Tower 2.0 is currently in beta testing phase, we expect to release it soon
+
 # **A quick teaser:**
 
 ![105932601-b65a9680-6012-11eb-84f2-5570854161e9](https://user-images.githubusercontent.com/52982585/105964393-baed7200-6047-11eb-9a15-90818c1d93a3.jpg)
