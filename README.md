@@ -2,7 +2,7 @@
 
 
 Strategy and puzzle-solving RPG inspired by the Tower of Sorcerer ([developed by
-Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTheSorcerer)). The game took place in a post-apocalyptic world where the actor woke up after a coma in an enigamatic tower. You need to use strategies, gather resources, and solve the puzzles to combat the devils within and help the actor investigate what happened.
+Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTheSorcerer)). The game took place in a post-apocalyptic world where the actor woke up after a coma in an enigamatic tower. You need to use strategies, gather resources, and solve the puzzles to combat the devils within and help the actor investigate what happened. Be careful, because the monsters will hunt you down ... 
 
 # **OS Requirement**
 Windows 7, 8, 10 
