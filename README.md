@@ -1,15 +1,36 @@
-# **Use your strategies, solve the puzzles, and ESCAPE the deadly DOOM TOWER!!!**
+# **ESCAPE the deadly DOOM TOWER!!!**
 
 
 Strategy and puzzle-solving RPG inspired by the Tower of Sorcerer ([developed by
 Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTheSorcerer)). The game took place in a post-apocalyptic world where the actor woke up after a coma in an enigamatic tower. You need to use strategies, gather resources, and solve the puzzles to combat the devils within and help the actor investigate what happened.
 
-# **A quick teaser:**
+# **OS Requirement**
+Windows 7, 8, 10 
 
+# **Built with**
+RPG Maker XP <br/>
+Ruby/RGSS <br/> 
+
+# **Size**
+Doom Tower 1.0: 368MB <br/> 
+Doom Tower 2.0: 680MB (Coming up soon) <br/> 
+
+# **Usage:**
+Download the repo, and click Game.exe 
+
+# **Language**
+Doom Tower 1.0: Chinese <br/> 
+Doom Tower 2.0: English (Coming up soon) <br/> 
+
+# **Developers**
+Kunlun Wang [Check out my LinkedIn!](https://www.linkedin.com/in/kunlun-wang-9a87781aa/) <br /> 
+Charlie Bohong Chen 
+
+# **A quick teaser:**
 
 ![105932601-b65a9680-6012-11eb-84f2-5570854161e9](https://user-images.githubusercontent.com/52982585/105964393-baed7200-6047-11eb-9a15-90818c1d93a3.jpg)
 
-# **Paying tribute to the legendary Tower of Sorcerer:**
+# **Doom Tower 1.0:**
 ![105933422-00904780-6014-11eb-9410-b3c722fa814e](https://user-images.githubusercontent.com/52982585/105964720-34856000-6048-11eb-85f0-ad4fd52963be.jpg)
 
 ![105933678-857b6100-6014-11eb-9189-86698b369a2b](https://user-images.githubusercontent.com/52982585/105964760-4404a900-6048-11eb-9029-213c5f03f154.jpg)
@@ -25,8 +46,7 @@ Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTh
 
 ![105934862-93ca7c80-6016-11eb-98b0-778d679a220f](https://user-images.githubusercontent.com/52982585/105964875-67c7ef00-6048-11eb-9ebb-90d898867a1d.png)
 
-# **Doom Tower 2:**
-
+# **Doom Tower 2.0:**
 
 ![105934989-c83e3880-6016-11eb-9c81-d4d1a4751b4b](https://user-images.githubusercontent.com/52982585/105964908-71515700-6048-11eb-876f-13e974328f2c.png)
 
@@ -54,9 +74,3 @@ Watanabe Nao in 1996](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TowerOfTh
 
 ![105936020-96c66c80-6018-11eb-8666-851fcd03d1a9](https://user-images.githubusercontent.com/52982585/105965386-f63c7080-6048-11eb-9ca8-432e91365683.png)
 
-
-
-
-# Authors: 
-Kunlun Wang [Check out my LinkedIn!](https://www.linkedin.com/in/kunlun-wang-9a87781aa/) <br /> 
-Charlie Bohong Chen 
