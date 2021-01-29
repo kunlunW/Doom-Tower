@@ -77,3 +77,6 @@ Doom Tower 2.0 is currently in beta testing phase, we expect to release it soon
 
 ![105936020-96c66c80-6018-11eb-8666-851fcd03d1a9](https://user-images.githubusercontent.com/52982585/105965386-f63c7080-6048-11eb-9ca8-432e91365683.png)
 
+
+
+# **Take a little study break, play the game and enjor the beautiful music! **
